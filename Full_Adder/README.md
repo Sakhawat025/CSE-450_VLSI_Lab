@@ -61,6 +61,7 @@ The design was developed using Verilog HDL and verified through RTL schematic ge
 │
 └── Report
     └── Full_Adder_Lab_Report.pdf
+```
 
 
 ## Simulation Result
