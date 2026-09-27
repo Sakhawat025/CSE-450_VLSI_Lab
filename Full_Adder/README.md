@@ -43,7 +43,7 @@ The design was developed using Verilog HDL and verified through RTL schematic ge
 ## Repository Structure
 
 ```text
-1-bit-Full-Adder
+Full-Adder(1bit)
 │
 ├── Source_Code
 │   ├── Full_Adder.v
@@ -60,7 +60,7 @@ The design was developed using Verilog HDL and verified through RTL schematic ge
 │   └── Simulation_Waveform.png
 │
 └── Report
-    └── Full_Adder_Lab_Report.pdf
+    └── Full_Adder(1bit)_Lab_Report.pdf
 ```
 
 
