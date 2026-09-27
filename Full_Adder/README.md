@@ -41,7 +41,9 @@ The design was developed using Verilog HDL and verified through RTL schematic ge
 - Verilog HDL
 
 ## Repository Structure
-Full-Adder(1bit)
+
+```text
+1-bit-Full-Adder
 │
 ├── Source_Code
 │   ├── Full_Adder.v
@@ -52,7 +54,7 @@ Full-Adder(1bit)
 │
 ├── Schematic
 │   ├── RTL_Schematic.png
-│   ├── Gate_Level_RTL_Schematic.png
+│   └── Gate_Level_RTL_Schematic.png
 │
 ├── Simulation
 │   └── Simulation_Waveform.png
